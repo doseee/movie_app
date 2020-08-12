@@ -6,6 +6,7 @@
   },
   "editor.codeActionsOnSave": null,
 
-  "prettier.bracketSpacing": false,
-  "prettier.printWidth": 80
+  "prettier.bracketSpacing": true,
+  "prettier.printWidth": 200,
+  "prettier.endOfLine": "auto"
 }
