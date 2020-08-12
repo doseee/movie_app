@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.codeActionsOnSave": null,
+
+  "prettier.bracketSpacing": false,
+  "prettier.printWidth": 80
+}
